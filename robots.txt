@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-hxxje7.wedang77max.online/sitemap.xml
